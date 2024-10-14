@@ -2,6 +2,9 @@
 Notes about ESP32 hobby things
 
 
+<iframe width="315" height="560" src="https://www.youtube.com/embed/cfuCe4Dp4Ag" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen ></iframe>
+
+
 ![Video of the blinking LED hello world C program running on an $8.50 device.](video.mp4)
 
 <video src="https://github.com/payne/esp32_oct2024/raw/main/video.mp4" controls="controls" style="max-width: 730px;">
